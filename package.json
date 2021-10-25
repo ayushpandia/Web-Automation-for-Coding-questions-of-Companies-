@@ -1,0 +1,20 @@
+{
+  "name": "activity-2",
+  "version": "1.0.0",
+  "main": "Hackerrank_automation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "excel4node": "^1.7.2",
+    "jsdom": "^18.0.0",
+    "pdf-lib": "^1.17.0",
+    "puppeteer": "^10.4.0",
+    "puppeteer-core": "^10.4.0"
+  }
+}
